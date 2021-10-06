@@ -1,0 +1,22 @@
+div
+{
+    border: 5px rosybrown solid;
+    width: 140px;
+    height: 120px;
+    text-align: center; 
+}
+
+input
+{
+    text-align: center;
+}
+
+h3
+{
+    color: brown;
+}
+
+button
+{
+    color: crimson;
+}
